@@ -1,3 +1,3 @@
 ### printf("Hello!\n");
 
-Autodidact undergraduate student in CS & Engineering, passionate about abstract mathematics, systems theory, and the philosophical foundations of computation. Plenty of interests — not much free time.
+Autodidactic undergraduate in Computer Systems and Engineering, deeply interested in abstract mathematics, systems theory, and the philosophical foundations of computation. Many interests, little time.
