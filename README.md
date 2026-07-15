@@ -1,6 +1,6 @@
 ### printf("Hello!\n");
 
-Deeply interested in abstract mathematics, philosophy and the foundations of computation. A public code forge where I explore ideas, write stuff, contribute to or create open-source projects out of personal interest.
+A public code forge where I explore ideas, write stuff, contribute to or create open-source projects out of personal interest.
 
 <p align="center">
 
